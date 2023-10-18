@@ -36,9 +36,11 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Uni-Repo": [
+      "Test",
       "Templates",
-      "Test"
-    ]
+      "Attachments"
+    ],
+    "Vorlesungen": []
   },
   "expandedSpaces": [
     "/",
@@ -50,7 +52,8 @@
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
-    "Courses WS2324",
+    "Assignments",
+    "Vorlesungen",
     "Uni-Repo"
   ],
   "menuTriggerChar": "/",
@@ -76,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697646601076,
+  "spacesAutoBackupLast": 1697647213154,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

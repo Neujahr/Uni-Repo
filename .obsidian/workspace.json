@@ -11,9 +11,11 @@
             "id": "7d7703c8a62bbc8a",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Courses WS2324//"
+                "file": "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vorlesungen/V - Algorithmen und Datenstrukturen.md"
+              }
             }
           },
           {
@@ -141,12 +146,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,21 +163,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cea8438cf38505de",
+  "active": "044754c27bc8e07c",
   "lastOpenFiles": [
+    "Vorlesungen/Assignments",
+    "Vorlesungen/V - Rechnerarchitektur .md",
+    "Vorlesungen/Vorlesungen.md",
+    "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
+    "Vorlesungen/V - Betriebssysteme.md",
+    "Vorlesungen/V - Objekt Orientierte Analyse Design (OOAD).md",
+    "Vorlesungen/V - Programmieren II.md",
+    "Vorlesungen/V - Französisch A1.md",
+    "Vorlesungen",
     "Untitled.md",
     "Assignments.md",
-    "V - Algorithmen und Datenstrukturen.md",
     "Templates",
     "Attachments",
     "Untitled 1.md",
-    "V - Betriebssysteme.md",
-    "V - Programmieren II.md",
-    "V - Französisch A1.md",
     "Test/Test.md",
     "Test",
-    "V - Objekt Orientierte Analyse Design (OOAD).md",
-    "V - Rechnerarchitektur .md",
     "Templates/Templates.md",
     "Templates",
     "README.md",
