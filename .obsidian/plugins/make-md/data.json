@@ -15,7 +15,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "all",
+  "activeView": "root",
   "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
@@ -26,27 +26,31 @@
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
-  "spacesStickers": true,
+  "spacesStickers": false,
   "spaceRowHeight": 29,
   "spacesDisablePatch": false,
   "folderNoteInsideFolder": true,
   "folderNoteDefaultView": true,
   "sidebarTabs": true,
-  "showRibbon": true,
+  "showRibbon": false,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "Uni-Repo": []
+    "Uni-Repo": [
+      "Templates",
+      "Test"
+    ]
   },
   "expandedSpaces": [
     "/",
     null,
     null,
-    "Uni-Repo"
+    "Courses WS2324"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
+    "Courses WS2324",
     "Uni-Repo"
   ],
   "menuTriggerChar": "/",
@@ -72,7 +76,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697641731618,
+  "spacesAutoBackupLast": 1697646601076,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

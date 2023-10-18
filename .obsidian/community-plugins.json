@@ -2,5 +2,7 @@
   "make-md",
   "obsidian-git",
   "obsidian-style-settings",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "templater-obsidian",
+  "obsidian-checklist-plugin"
 ]

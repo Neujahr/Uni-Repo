@@ -2,9 +2,9 @@
   "accentColor": "#1a7a50",
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "neatFolderStructure",
     "justfyText",
     "roundedCorners",
-    "tableStyles"
+    "tableStyles",
+    "neatFolderStructure"
   ]
 }
