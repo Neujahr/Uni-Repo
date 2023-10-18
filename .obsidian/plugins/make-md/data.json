@@ -55,11 +55,11 @@
   "expandedSpaces": [
     "/",
     null,
-    null,
     "Courses WS2324",
     "Assignments",
     "Praktika",
-    "Courses"
+    "Courses",
+    null
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -91,7 +91,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697647723123,
+  "spacesAutoBackupLast": 1697649348428,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

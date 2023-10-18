@@ -149,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -159,9 +159,6 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
@@ -169,6 +166,9 @@
   },
   "active": "7d7703c8a62bbc8a",
   "lastOpenFiles": [
+    "Vorlesungen/context.mdb",
+    "Context/spacesLastSync.log",
+    "Context",
     "Vorlesungen/Vorlesungen.md",
     "Vorlesungen/V - Visual Computing.md",
     "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
@@ -192,8 +192,6 @@
     "Test/Test.md",
     "Test",
     "Templates",
-    "README.md",
-    "Context/spacesLastSync.log",
-    "Context"
+    "README.md"
   ]
 }
