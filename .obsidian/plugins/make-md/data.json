@@ -38,22 +38,31 @@
     "Uni-Repo": [
       "Test",
       "Templates",
-      "Attachments"
+      "Attachments",
+      "Attachments",
+      "Templates",
+      "Vorlesungen/Praktika",
+      "Vorlesungen"
     ],
-    "Vorlesungen": []
+    "Vorlesungen": [],
+    "Courses": [
+      "Vorlesungen"
+    ]
   },
   "expandedSpaces": [
     "/",
     null,
     null,
-    "Courses WS2324"
+    "Courses WS2324",
+    "Assignments",
+    "Praktika",
+    "Courses"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
-    "Assignments",
-    "Vorlesungen",
+    "Courses",
     "Uni-Repo"
   ],
   "menuTriggerChar": "/",
@@ -79,7 +88,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697647213154,
+  "spacesAutoBackupLast": 1697647723123,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
