@@ -14,7 +14,7 @@ cssclasses:
 | Do        | 19.10.23                          | V: Visual Computing                 |
 | Fr        | 20.10.23                          | V: Rechnerarchitektur               |
 
-
+--- end-column ---
 
 | Wochentag | KW 42     16.10.2023 - 22.10.2023 | Vorlesung                           |
 |-----------|-----------------------------------|-------------------------------------|
@@ -26,7 +26,4 @@ cssclasses:
 | Do        | 19.10.23                          | V: Visual Computing                 |
 | Fr        | 20.10.23                          | V: Rechnerarchitektur               |
 
-
-
-
-
+--- end-multi-column ---
