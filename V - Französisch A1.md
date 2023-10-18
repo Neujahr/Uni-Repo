@@ -1,10 +1,10 @@
 ---
 cssclasses:
   - purpleRed
-  - fixedFc
 tags:
   - sem/ss23
-Status: Bestanden
+  - sem/ws2324
+Status:
 ---
 
 # Vorlesung 1

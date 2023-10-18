@@ -1,4 +1,10 @@
 {
   "accentColor": "#1a7a50",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "neatFolderStructure",
+    "justfyText",
+    "roundedCorners",
+    "tableStyles"
+  ]
 }
