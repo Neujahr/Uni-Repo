@@ -11,8 +11,12 @@
             "id": "e670422e5e7a2d75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false,
+                "hash": "7aff43a6601ef0c0aa510c6708af7269469a478c"
+              }
             }
           }
         ]
@@ -137,14 +141,21 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "d670681577593d89",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,6 +165,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "842295e39f85404c",
+  "active": "e670422e5e7a2d75",
   "lastOpenFiles": []
 }
