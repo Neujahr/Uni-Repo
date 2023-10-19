@@ -76,6 +76,9 @@
       "Vorlesungen",
       "Vorlesungen",
       "Vorlesungen",
+      "Vorlesungen",
+      "Vorlesungen",
+      "Vorlesungen",
       "Vorlesungen"
     ]
   },
@@ -119,7 +122,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697713940611,
+  "spacesAutoBackupLast": 1697718081934,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

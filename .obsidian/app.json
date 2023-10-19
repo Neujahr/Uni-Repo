@@ -2,6 +2,6 @@
   "userIgnoreFilters": [
     "Context/"
   ],
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "preview"
 }

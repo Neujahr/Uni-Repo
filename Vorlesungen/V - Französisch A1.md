@@ -263,4 +263,3 @@ Konjugationstabelle
 | Vous      | aim*ez*  |
 | Ils/Elles | aim*ent* |
 
-

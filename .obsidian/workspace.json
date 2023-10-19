@@ -15,7 +15,7 @@
               "state": {
                 "file": "Vorlesungen/Vorlesungen.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           },
@@ -23,9 +23,11 @@
             "id": "89b3662b4197ac71",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Vorlesungen"
+                "file": "Vorlesungen/V - Französisch A1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -77,7 +79,7 @@
             }
           },
           {
-            "id": "99b98e38e3649bec",
+            "id": "8c95e2f564cd64fa",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -115,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vorlesungen/V - Französisch A1.md"
+              }
             }
           },
           {
@@ -132,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vorlesungen/V - Französisch A1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,17 +153,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vorlesungen/V - Französisch A1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "56b3d06577ee5263",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,14 +184,15 @@
   },
   "active": "89b3662b4197ac71",
   "lastOpenFiles": [
-    "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
     "Vorlesungen/V - Betriebssysteme.md",
+    "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
+    "Vorlesungen/V - Französisch A1.md",
+    "Context/Courses.mdb",
     "Untitled 1.md",
     "Vorlesungen/Vorlesungen.md",
     "Vorlesungen/V - Visual Computing.md",
     "Vorlesungen/Untitled.md",
     "Vorlesungen/V - Objekt Orientierte Analyse Design (OOAD).md",
-    "Vorlesungen/V - Französisch A1.md",
     "Context/spacesLastSync.log",
     "Context",
     "Vorlesungen/context.mdb",
@@ -194,7 +209,6 @@
     "Attachments",
     "Test/Test.md",
     "Test",
-    "Templates",
     "README.md"
   ]
 }
