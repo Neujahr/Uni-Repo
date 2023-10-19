@@ -6,5 +6,6 @@
   "obsidian-checklist-plugin",
   "multi-column-markdown",
   "make-md",
-  "table-checkboxes"
+  "table-checkboxes",
+  "obsidian-excel-to-markdown-table"
 ]
