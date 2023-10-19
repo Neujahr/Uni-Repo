@@ -23,11 +23,9 @@
             "id": "89b3662b4197ac71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
-                "mode": "preview",
-                "source": true
+                "contextPath": "Vorlesungen"
               }
             }
           }
@@ -117,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vorlesungen/V - Algorithmen und Datenstrukturen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
