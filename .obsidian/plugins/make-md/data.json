@@ -7,7 +7,7 @@
   "makeMenuPlaceholder": true,
   "mobileMakeBar": true,
   "inlineStyler": true,
-  "makerMode": false,
+  "makerMode": true,
   "inlineStylerColors": false,
   "editorFlow": true,
   "internalLinkClickFlow": true,
@@ -49,6 +49,7 @@
     ],
     "Vorlesungen": [],
     "Courses": [
+      "Vorlesungen",
       "Vorlesungen",
       "Vorlesungen",
       "Vorlesungen",

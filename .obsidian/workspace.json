@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vorlesungen/V - Französisch A1.md",
+                "file": "Vorlesungen/V - Betriebssysteme.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             }
           },
           {
-            "id": "8c95e2f564cd64fa",
+            "id": "7b9f1ffbdf1bffe8",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vorlesungen/V - Französisch A1.md"
+                "file": "Vorlesungen/V - Betriebssysteme.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vorlesungen/V - Französisch A1.md",
+                "file": "Vorlesungen/V - Betriebssysteme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vorlesungen/V - Französisch A1.md",
+                "file": "Vorlesungen/V - Betriebssysteme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,15 +184,15 @@
   },
   "active": "89b3662b4197ac71",
   "lastOpenFiles": [
-    "Vorlesungen/V - Betriebssysteme.md",
-    "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
     "Vorlesungen/V - Französisch A1.md",
+    "Vorlesungen/V - Betriebssysteme.md",
+    "Vorlesungen/V - Objekt Orientierte Analyse Design (OOAD).md",
+    "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
     "Context/Courses.mdb",
     "Untitled 1.md",
     "Vorlesungen/Vorlesungen.md",
     "Vorlesungen/V - Visual Computing.md",
     "Vorlesungen/Untitled.md",
-    "Vorlesungen/V - Objekt Orientierte Analyse Design (OOAD).md",
     "Context/spacesLastSync.log",
     "Context",
     "Vorlesungen/context.mdb",
