@@ -6,5 +6,6 @@
   "templater-obsidian",
   "obsidian-checklist-plugin",
   "obsidian-excel-to-markdown-table",
-  "multi-column-markdown"
+  "multi-column-markdown",
+  "table-checkboxes"
 ]
