@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Uni.md",
+                "file": "Vorlesungen/V - Betriebssysteme.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Uni.md"
+                "file": "Vorlesungen/V - Betriebssysteme.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Uni.md",
+                "file": "Vorlesungen/V - Betriebssysteme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Uni.md",
+                "file": "Vorlesungen/V - Betriebssysteme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,14 +196,15 @@
   },
   "active": "35238d6f8c5a896c",
   "lastOpenFiles": [
-    "Vorlesungen/V - Rechnerarchitektur .md",
-    "Vorlesungen/V - Visual Computing.md",
     "Templates/Uni.md",
-    "Untitled 1.md",
-    "Vorlesungen/V - Objekt Orientierte Analyse Design (OOAD).md",
-    "Vorlesungen/V - Französisch A1.md",
-    "Vorlesungen/V - Betriebssysteme.md",
     "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
+    "Vorlesungen/V - Betriebssysteme.md",
+    "Vorlesungen/V - Französisch A1.md",
+    "Vorlesungen/V - Objekt Orientierte Analyse Design (OOAD).md",
+    "Vorlesungen/V - Programmieren II.md",
+    "Vorlesungen/V - Visual Computing.md",
+    "Vorlesungen/V - Rechnerarchitektur .md",
+    "Untitled 1.md",
     "Context/Courses.mdb",
     "Vorlesungen/Vorlesungen.md",
     "Vorlesungen/Untitled.md",
@@ -215,7 +216,6 @@
     "Attachments/Attachments.md",
     "Vorlesungen/Praktika",
     "Vorlesungen/Assignments",
-    "Vorlesungen/V - Programmieren II.md",
     "Vorlesungen",
     "Assignments.md",
     "Templates",
