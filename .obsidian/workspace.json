@@ -11,13 +11,26 @@
             "id": "7d7703c8a62bbc8a",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vorlesungen/Vorlesungen.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "89b3662b4197ac71",
+            "type": "leaf",
+            "state": {
               "type": "make-folder-view",
               "state": {
                 "contextPath": "Vorlesungen"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,31 +168,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7d7703c8a62bbc8a",
+  "active": "89b3662b4197ac71",
   "lastOpenFiles": [
-    "Vorlesungen/V - Betriebssysteme.md",
     "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
-    "Vorlesungen/V - Französisch A1.md",
+    "Vorlesungen/V - Betriebssysteme.md",
+    "Untitled 1.md",
+    "Vorlesungen/Vorlesungen.md",
+    "Vorlesungen/V - Visual Computing.md",
+    "Vorlesungen/Untitled.md",
     "Vorlesungen/V - Objekt Orientierte Analyse Design (OOAD).md",
+    "Vorlesungen/V - Französisch A1.md",
     "Context/spacesLastSync.log",
     "Context",
-    "Vorlesungen/Vorlesungen.md",
     "Vorlesungen/context.mdb",
-    "Vorlesungen/V - Visual Computing.md",
-    "Untitled.md",
     "Vorlesungen/V - Rechnerarchitektur .md",
     "P - Visual Computing.md",
     "Templates/Templates.md",
     "Attachments/Attachments.md",
     "Vorlesungen/Praktika",
-    "Vorlesungen/Untitled.md",
     "Vorlesungen/Assignments",
     "Vorlesungen/V - Programmieren II.md",
     "Vorlesungen",
     "Assignments.md",
     "Templates",
     "Attachments",
-    "Untitled 1.md",
     "Test/Test.md",
     "Test",
     "Templates",
