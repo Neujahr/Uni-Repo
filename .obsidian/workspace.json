@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vorlesungen/V - Betriebssysteme.md",
+                "file": "Vorlesungen/V - Visual Computing.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35238d6f8c5a896c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Uni.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "f7f09809957a62e5",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vorlesungen/V - Betriebssysteme.md"
+                "file": "Templates/Uni.md"
               }
             }
           },
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vorlesungen/V - Betriebssysteme.md",
+                "file": "Templates/Uni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vorlesungen/V - Betriebssysteme.md",
+                "file": "Templates/Uni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,21 +194,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "89b3662b4197ac71",
+  "active": "35238d6f8c5a896c",
   "lastOpenFiles": [
+    "Vorlesungen/V - Rechnerarchitektur .md",
+    "Vorlesungen/V - Visual Computing.md",
+    "Templates/Uni.md",
+    "Untitled 1.md",
+    "Vorlesungen/V - Objekt Orientierte Analyse Design (OOAD).md",
     "Vorlesungen/V - Französisch A1.md",
     "Vorlesungen/V - Betriebssysteme.md",
-    "Vorlesungen/V - Objekt Orientierte Analyse Design (OOAD).md",
     "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
     "Context/Courses.mdb",
-    "Untitled 1.md",
     "Vorlesungen/Vorlesungen.md",
-    "Vorlesungen/V - Visual Computing.md",
     "Vorlesungen/Untitled.md",
     "Context/spacesLastSync.log",
     "Context",
     "Vorlesungen/context.mdb",
-    "Vorlesungen/V - Rechnerarchitektur .md",
     "P - Visual Computing.md",
     "Templates/Templates.md",
     "Attachments/Attachments.md",
