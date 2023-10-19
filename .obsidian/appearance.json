@@ -6,5 +6,6 @@
     "roundedCorners",
     "neatFolderStructure",
     "tableStyles2"
-  ]
+  ],
+  "showViewHeader": true
 }
