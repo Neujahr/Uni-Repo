@@ -106,8 +106,7 @@ Mitarbeiter können existieren obwohl Abteilung ausgelöst wird.
 - Die Komposition ist eine engere Beziehung als die Aggregation und ein Spezialfall der Aggregation.
 - Eine Komposition aus Objekt 1 und Objekt 2 bedeutet, dass
 	- Objekt1 das Objekt2 enthält
-	- Wenn Objekt1 gelöscht wird, hört auch Objekt2 auf zu existieren. 
-<font color=FF8C00>**Beispiel und Umsetzung in UML:**</font>
+	- Wenn Objekt1 gelöscht wird, hört auch Objekt2 auf zu existieren. <font color=FF8C00>**Beispiel und Umsetzung in UML:**</font>
 ![[Pasted image 20230305173946.png]]
 -> Wenn das ganze Unternehmen nicht mehr existiert, gibt es auch keine Abteilung/en mehr.
 
@@ -166,3 +165,41 @@ Abteilung abteilung1, abteilung2, abteilung3;
 
 
 
+## Termine 
+| Di | 17.10.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+|----|----------|-----------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| Mi | 18.10.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Di | 24.10.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 25.10.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Di | 31.10.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 01.11.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Di | 07.11.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 08.11.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 08.11.23 | P: Programmieren 2 #1 | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Di | 14.11.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 15.11.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Di | 21.11.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 22.11.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 22.11.23 | P: Programmieren 2 #2 | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Di | 28.11.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 29.11.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Di | 05.12.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 06.12.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 06.12.23 | P: Programmieren 2 #3 | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Di | 12.12.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 13.12.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Di | 19.12.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 20.12.23 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 20.12.23 | P: Programmieren 2 #4 | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Di | 16.01.24 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 17.01.24 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Di | 23.01.24 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 24.01.24 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 24.01.24 | P: Programmieren 2 #5 | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Di | 30.01.24 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 31.01.24 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Di | 06.02.24 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 07.02.24 | V: Programmieren 2    | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 07.02.24 | P: Programmieren 2 #6 | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Di | 13.02.24 | ? V: Programmieren 2  | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mi | 14.02.24 | ? V: Programmieren 2  | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |

@@ -32,5 +32,12 @@
   "minimal-advanced@@font-ui-smaller": 12,
   "minimal-style@@h5-size": "1.3em",
   "minimal-style@@h6-size": "1em",
-  "minimal-style@@callouts-style": "callouts-default"
+  "minimal-style@@callouts-style": "callouts-default",
+  "minimal-style@@code-function@@dark": "#2FA3A7",
+  "minimal-style@@code-background@@dark": "#18272C",
+  "minimal-style@@code-normal@@dark": "#A59F9F",
+  "minimal-style@@code-comment@@dark": "#7DE474",
+  "minimal-style@@code-punctuation@@dark": "#FF3D00",
+  "minimal-style@@code-string@@dark": "#F2EE1C",
+  "minimal-style@@code-value@@dark": "#31F700"
 }
