@@ -25,6 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Vorlesungen/V - Visual Computing.md",
                 "mode": "preview",
                 "source": false
@@ -40,6 +41,11 @@
                 "file": "Vorlesungen/V - Betriebssysteme.md",
                 "mode": "source",
                 "source": false
+=======
+                "file": "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
+                "mode": "source",
+                "source": true
+>>>>>>> 5ad550e ( vault backup: 2023-10-19 15:40:41)
               }
             }
           }
@@ -130,7 +136,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Vorlesungen/V - Betriebssysteme.md"
+=======
+                "file": "Vorlesungen/V - Algorithmen und Datenstrukturen.md"
+>>>>>>> 5ad550e ( vault backup: 2023-10-19 15:40:41)
               }
             }
           },
@@ -148,7 +158,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Vorlesungen/V - Betriebssysteme.md",
+=======
+                "file": "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
+>>>>>>> 5ad550e ( vault backup: 2023-10-19 15:40:41)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +179,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Vorlesungen/V - Betriebssysteme.md",
+=======
+                "file": "Vorlesungen/V - Algorithmen und Datenstrukturen.md",
+>>>>>>> 5ad550e ( vault backup: 2023-10-19 15:40:41)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
