@@ -87,6 +87,7 @@
       "Vorlesungen",
       "Vorlesungen",
       "Vorlesungen",
+      "Vorlesungen",
       "Vorlesungen"
     ]
   },
@@ -97,7 +98,6 @@
     "Assignments",
     "Praktika",
     "Courses",
-    "Uni-Repo",
     null
   ],
   "expandFolderOnClick": true,
@@ -130,7 +130,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697719289896,
+  "spacesAutoBackupLast": 1697725406881,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
