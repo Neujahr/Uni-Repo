@@ -1,11 +1,10 @@
 [
-  "make-md",
   "obsidian-git",
   "obsidian-style-settings",
   "obsidian-minimal-settings",
   "templater-obsidian",
   "obsidian-checklist-plugin",
-  "obsidian-excel-to-markdown-table",
   "multi-column-markdown",
+  "make-md",
   "table-checkboxes"
 ]
