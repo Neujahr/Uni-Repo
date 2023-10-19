@@ -38,8 +38,6 @@
     "Uni-Repo": [
       "Test",
       "Templates",
-      "Attachments",
-      "Attachments",
       "Templates",
       "Vorlesungen/Praktika",
       "Vorlesungen",
@@ -48,14 +46,12 @@
       "Templates",
       "Templates",
       "Templates",
-      "Attachments",
       "Templates",
       "Templates",
       "Templates"
     ],
     "Vorlesungen": [],
     "Courses": [
-      "Vorlesungen",
       "Vorlesungen",
       "Vorlesungen",
       "Vorlesungen",
@@ -98,6 +94,7 @@
     "Assignments",
     "Praktika",
     "Courses",
+    "Uni-Repo",
     null
   ],
   "expandFolderOnClick": true,
@@ -130,7 +127,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697725932006,
+  "spacesAutoBackupLast": 1697726546274,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
