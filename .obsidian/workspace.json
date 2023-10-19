@@ -115,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vorlesungen/Vorlesungen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vorlesungen/Vorlesungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vorlesungen/Vorlesungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
