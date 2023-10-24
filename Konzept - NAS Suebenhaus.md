@@ -29,9 +29,4 @@ negativ
 
 |Anbindung zu den Hauswärten|
 |Zustand der Räumlichkeiten während der Bersichtigungen|
-|Fehlende Kellerputydienste|
-|5 Wochen keinne Putzdienst|
-|Zustände der Zimmer vor besichtigungen|
-|Beteiligungen|
-|Feedback ß unaufgefordert|
-|Sperrmüll|
+  
