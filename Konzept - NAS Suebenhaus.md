@@ -29,17 +29,15 @@ Synology DSPlay 216 NAS - 90€
 
 #### Positiv:
 Kommunikation mit WBV war schnell
-Trotz unerwarteten Hindernisse war das Ergebnis zufriedenstellend
+Trotz unerwartete Hindernisse war das Ergebnis zufriedenstellend
 Lob an Bb Pablo der seitens des Hauses sich um die meisten Aufgaben gekümmert hat
 
 #### Negativ 
-Zustand der Räumlichkeiten während der Besichtigungen - Hauptsaechlich kueche, baeder
+Zustand der Räumlichkeiten während der Besichtigungen - Hauptsächlich Küche, Bäder
 Verbindungsräumeputzdienste zeitweise komplett ignoriert.
-Zustände der Zimmer vor Besichtigungen
 Beteiligung an den Hausführungen - Liste Kiwi
 Schlechtes feedback, teilweise selbst mit aufforderung kamen keine nachrichten rein.
 Sperrmüll stand ewig lange rum. 
-
 Sauberkeit in den Verbindungsräumen (BC)
 
 
