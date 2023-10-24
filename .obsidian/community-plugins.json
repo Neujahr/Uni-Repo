@@ -9,5 +9,6 @@
   "obsidian-excel-to-markdown-table",
   "make-md",
   "homepage",
-  "multi-line-formatting"
+  "multi-line-formatting",
+  "obsidian-pandoc"
 ]
