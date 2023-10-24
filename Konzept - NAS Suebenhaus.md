@@ -24,7 +24,7 @@ Synology DSPlay 216 NAS - 90€
 - NAS wurde auf dem Haus eingerichtet
 - Soll im Laufe des Semesters von Chargen benutzt werden
 - Externe BbBb die Bilder von jeglichen Veranstaltungen haben sollen Bb Knigge bitte kontaktieren. 
--
+- 10.11. Zugänge  sowie Anleitung zur Einrichtung 
 #### Fürs Protokoll
 - NAS wurde auf dem Haus eingerichtet
 - Soll im Laufe des Semesters von Chargen benutzt werden
