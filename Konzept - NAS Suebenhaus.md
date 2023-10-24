@@ -23,39 +23,43 @@ Synology DSPlay 216 NAS - 90€
 #### Fürs Protokoll
 - NAS wurde auf dem Haus eingerichtet
 - Soll im Laufe des Semesters von Chargen benutzt werden
-- Externe BbBb die Bilder von jeglichen Veranstaltungen haben sollen Bb Knigge bitte kontaktieren.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Externe BbBb die Bilder von jeglichen Veranstaltungen haben sollen Bb Knigge bitte kontaktieren. 
+-
 #### Fürs Protokoll
 - NAS wurde auf dem Haus eingerichtet
 - Soll im Laufe des Semesters von Chargen benutzt werden
 - Externe BbBb die Bilder;Videos haben sollen Bb Knigge kontaktieren.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Keilung WS23/24
 
 #### Positiv:
 Kommunikation mit WBV war schnell
 Trotz unerwartete Hindernisse war das Ergebnis zufriedenstellend
 Lob an Bb Pablo der seitens des Hauses sich um die meisten Aufgaben gekümmert hat
-
+Gute Beteiligung der externen BbBb an 
 #### Negativ 
 Zustand der Räumlichkeiten während der Besichtigungen - Hauptsächlich Küche, Bäder
 Verbindungsräumeputzdienste zeitweise komplett ignoriert.
