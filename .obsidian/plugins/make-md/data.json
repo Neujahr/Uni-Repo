@@ -65,7 +65,8 @@
     "Assignments",
     "Praktika",
     "Courses",
-    null
+    null,
+    "Uni-Repo"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],

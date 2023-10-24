@@ -2,7 +2,7 @@
 ### Mehrwert
 - Chargen können bei Bedarf auf die Vorlagen anderer Chargen Bedarf (aber nicht ändern!)
 - Keine losen USB-Sticks die schnell verloren gehen
-- Jeder Bursche kann sich die Bilder/Videos anschauen die dort hinterlegt sind. Für künftige Ausflüge usw. können die Bilder direkt in die NAS hochgeladen werden und, bspw. für Ostseefahrt, Stiftungsfest usw. 
+- Jeder Bursche kann sich die Bilder/Videos anschauen die dort hinterlegt sind. Für künftige Ausflüge usw. können die Bilder direkt ins NAS hochgeladen werden bspw.  Ostseefahrt, Stiftungsfest usw. 
 ### Zugriffsrechte
 Die Zugriffsrechte sind flexibel einstellbar, einzelne Nutzer können unterschiedliche Zugriffsrechte auf die Ordner haben. 
 Diese Zugriffsrechte werden einmal erstellt und bei Bedarf angepasst.
@@ -14,11 +14,35 @@ Eine grobe Vorstellung der Benutzer könnte bspw. so aussehen:
 
 ### Nutzung
 Auf das NAS kann normal zugegriffen werden von File Explorer (Windows) oder MacOS (Finder) unter Netzwerkadressen.
-Nach einer einmaligen Einrichtung bleibt der Ordner angepinnt und funktioniert genau wie einen lokalen Ordner auf dem Rechner. Eine ausführliche Anleitung für die Einrichtung wird noch für MacOS und Windows erstellt, die Zugangsdaten für die Chargen werden noch erstellt. 
+Nach einer einmaligen Einrichtung bleibt der Ordner angepinnt und funktioniert genau wie einen lokalen Ordner auf dem Rechner. Eine ausführliche Anleitung für die Einrichtung des NAS unter MacOS und Windows sowie die Zugangsdaten für die Chargen werden noch bis zum 10. Nov. erstellt. 
 
 ### Kosten
 Synology DSPlay 216 NAS - 90€
 2x 4 TB WD Red HDD - 210€
+
+#### Fürs Protokoll
+- NAS wurde auf dem Haus eingerichtet
+- Soll im Laufe des Semesters von Chargen benutzt werden
+- Externe BbBb die Bilder von jeglichen Veranstaltungen haben sollen Bb Knigge bitte kontaktieren.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #### Fürs Protokoll
@@ -36,7 +60,7 @@ Lob an Bb Pablo der seitens des Hauses sich um die meisten Aufgaben gekümmert h
 Zustand der Räumlichkeiten während der Besichtigungen - Hauptsächlich Küche, Bäder
 Verbindungsräumeputzdienste zeitweise komplett ignoriert.
 Beteiligung an den Hausführungen - Liste Kiwi
-Schlechtes feedback, teilweise selbst mit aufforderung kamen keine nachrichten rein.
+Schlechtes feedback
 Sperrmüll stand ewig lange rum. 
 Sauberkeit in den Verbindungsräumen (BC)
 
