@@ -1,4 +1,3 @@
-# Konzept - NAS Suebenhaus
 
 ### Mehrwert
 - Chargen können bei Bedarf auf die Vorlagen anderer Chargen Bedarf (aber nicht ändern!)
@@ -22,18 +21,31 @@ Synology DSPlay 216 NAS - 90€
 2x 4 TB WD Red HDD - 210€
 
 
-
-
+#### Fürs Protokoll
+- NAS wurde auf dem Haus eingerichtet
+- Soll im Laufe des Semesters von Chargen benutzt werden
+- Externe BbBb die Bilder;Videos haben sollen Bb Knigge kontaktieren.  
 # Keilung WS23/24
 
-Positiviv:
+#### Positiv:
 Kommunikation mit WBV war schnell
 Trotz unerwarteten Hindernisse war das Ergebnis zufriedenstellend
+Lob an Bb Pablo der seitens des Hauses sich um die meisten Aufgaben gekümmert hat
 
-Negativ 
-|Zustand der Räumlichkeiten während der Besichtigungen - Hauptsaechlich kueche, baeder
+#### Negativ 
+Zustand der Räumlichkeiten während der Besichtigungen - Hauptsaechlich kueche, baeder
 Verbindungsräumeputzdienste zeitweise komplett ignoriert.
 Zustände der Zimmer vor Besichtigungen
 Beteiligung an den Hausführungen - Liste Kiwi
 Schlechtes feedback, teilweise selbst mit aufforderung kamen keine nachrichten rein.
 Sperrmüll stand ewig lange rum. 
+
+Sauberkeit in den Verbindungsräumen (BC)
+
+
+## Offene Punkte
+
+#### Beireitungsliste
+Nicht aktuell
+Abschaffen der Liste die im Flur hängt
+  
