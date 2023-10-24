@@ -55,5 +55,5 @@ Abschaffen der Liste die im Flur hängt
 Zwischen 21.09 - 11.10: Liste nicht im Flur, keine Putzdienste gemacht.
 11.10 - 18.10: 10 8 Putzdienste, 3 gemacht.
 
-Fazit: 17.08 bis 18.10: 38 Putzdienste insgesamt, nur 8 gemacht. 
-Liste hing 3 Wochen lang nicht 
+Fazit: 17.08 bis 18.10: 38 Putzdienste insgesamt, nur 8 gemacht. 21%
+Liste hing 3 Wochen lang nicht.
