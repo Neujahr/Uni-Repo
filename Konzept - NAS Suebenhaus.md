@@ -15,3 +15,23 @@ Eine grobe Vorstellung der Benutzer könnte bspw. so aussehen:
 ### Kosten
 Synology DSPlay 216 NAS - 90€
 2x 4 TB WD Red HDD - 210€
+
+
+
+
+# Keilung WS23/24
+
+Positiviv:
+Kommunikation mit WBV war schnell
+Trotz unerwarteten Hindernisse war das Ergebnis zufriedenstellend
+
+negativ 
+
+|Anbindung zu den Hauswärten|
+|Zustand der Räumlichkeiten während der Bersichtigungen|
+|Fehlende Kellerputydienste|
+|5 Wochen keinne Putzdienst|
+|Zustände der Zimmer vor besichtigungen|
+|Beteiligungen|
+|Feedback ß unaufgefordert|
+|Sperrmüll|
