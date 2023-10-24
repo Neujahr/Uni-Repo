@@ -48,4 +48,12 @@ Sauberkeit in den Verbindungsräumen (BC)
 #### Beireitungsliste
 Nicht aktuell
 Abschaffen der Liste die im Flur hängt
-  
+
+#### Verbindungsräumeputzdienste
+
+17.08 - 21.09: 30 Putzdienste, nur 5 wurden gemacht
+Zwischen 21.09 - 11.10: Liste nicht im Flur, keine Putzdienste gemacht.
+11.10 - 18.10: 10 8 Putzdienste, 3 gemacht.
+
+Fazit: 17.08 bis 18.10: 38 Putzdienste insgesamt, nur 8 gemacht. 
+Liste hing 3 Wochen lang nicht 
