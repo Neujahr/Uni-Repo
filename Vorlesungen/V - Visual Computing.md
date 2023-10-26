@@ -1,3 +1,6 @@
+
+
+
 ## Inhalte der Vorlesung
 
 ### ComputerGrafik(OpenGL) und C++
@@ -51,4 +54,14 @@ Bilder durch Faltungsmatrizen (Convolutions) zu analysieren
 #todo 
 - [ ] Faltungsmatrizen (Convolutions) verstehen
 
-Mit Faltungsmatrizen <FONT COLOR="#ff0000"><b>kann man Bildern analysieren:</b></FONT>
+Mit Faltungsmatrizen <FONT COLOR="#ffa500"><b>kann man Bilder analysieren:</b></FONT>
+![[Pasted image 20231026120742.png]]
+
+Mit einem Netzwerk aus Faltungsmatrizen (Convolutional Neural Networks) kann man komplexe objekte im Bild oder video erkennen
+Das funktioniert auch (teilweise) fuer 3D-Objekte.
+Durch die Faltungsschichten werden die Eingabebilder schrittweise in eine abstrakte Beschreibung ueberfuehrt. Aehnliche Bilder haben aehnliche Beschreibungen.
+
+
+## Graphische Objekte
+
+Erzeugung graphischer Objekte: Alle Objekte bestehen aus Punkten, die mit Kanten zu Drei

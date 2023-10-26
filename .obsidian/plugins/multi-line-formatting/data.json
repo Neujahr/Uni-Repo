@@ -23,8 +23,8 @@
     {
       "id": "69853402",
       "nickname": "Beispiele",
-      "leftStyle": "<FONT COLOR=\"#ff0000\">**",
-      "rightStyle": "**</FONT>",
+      "leftStyle": "<FONT COLOR=\"#ffa500\"><b>",
+      "rightStyle": "</b></FONT>",
       "skipHeadings": true,
       "skipListItems": false,
       "skipBlockquotes": false,
