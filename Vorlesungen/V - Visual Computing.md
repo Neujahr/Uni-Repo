@@ -46,3 +46,9 @@ Man versucht eine Szene zu rendern durch Sehstrahlen einer virtuellen Kamera.
 ![[Pasted image 20231026115342.png]]
 
 ## Bildverarbeitung (Analyse)
+
+Bilder durch Faltungsmatrizen (Convolutions) zu analysieren
+#todo 
+- [ ] Faltungsmatrizen (Convolutions) verstehen
+
+Mit Faltungsmatrizen <FONT COLOR="#ff0000"><b>kann man Bildern analysieren:</b></FONT>

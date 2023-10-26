@@ -6,8 +6,7 @@
   "obsidian-checklist-plugin",
   "multi-column-markdown",
   "table-checkboxes",
+  "obsidian-excel-to-markdown-table",
   "make-md",
-  "homepage",
-  "multi-line-formatting",
-  "obsidian-pandoc"
+  "multi-line-formatting"
 ]
