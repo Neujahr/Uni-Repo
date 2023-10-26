@@ -1,6 +1,12 @@
 
 
 
+
+
+
+
+
+
 ## Inhalte der Vorlesung
 
 ### ComputerGrafik(OpenGL) und C++
@@ -75,7 +81,18 @@ OpenGL verbindet die Punkte zu bestimmten Primitiven (made up of one or more ver
 <FONT COLOR="#ffa500"><b>Wie kann man die Primitive im lokalen Koordinatensystem "manipulieren", um einen Pinguin zu konstruieren?</b></FONT>
 
 Mann kann sie:
-- verschieben (translieren)
-- drehen (rotieren)
-- vergrößern und verkleinern (skalieren)
-D
+- verschieben (<FONT COLOR="#ff0000">translieren</FONT>)
+- drehen (<FONT COLOR="#ff0000">rotieren</FONT>)
+- vergrößern und verkleinern (<FONT COLOR="#ff0000">skalieren</FONT>)
+Diese Manipulationen nennt man <FONT COLOR="#ff0000">Transformationen</FONT>
+
+### Transformationen: der Szenengraph
+
+Der Szenengraph besteht aus mindestens 3 Knotetypen:
+1. Gruppen
+2. Geometrien (inkl. Materialegenschaften)
+3. Transformationen
+Er dient zur Verwaltung einer komplexen Szene:
+- Gruppierung von Geometrien zu Gruppen
+- Gruppierung von Gruppen zu Gruppen
+- Gruppierung von Gruppen zu einer Szene

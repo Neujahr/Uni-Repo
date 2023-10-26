@@ -32,10 +32,10 @@
     },
     {
       "id": "607347264",
-      "nickname": "",
-      "leftStyle": "<FONT COLOR=\"#ffa500\"><b>",
-      "rightStyle": "</b></FONT>",
-      "skipHeadings": false,
+      "nickname": "Wichtig",
+      "leftStyle": "<FONT COLOR=\"#ff0000\">",
+      "rightStyle": "</FONT>",
+      "skipHeadings": true,
       "skipListItems": false,
       "skipBlockquotes": false,
       "formatWord": false
