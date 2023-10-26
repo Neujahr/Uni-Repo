@@ -4,7 +4,7 @@ cssclasses:
 ---
 | Tag | KW 42    | Termin                                  | V?                                            | B?                                            | W?                                            |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 16.10.23 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mo  | 16.10.23 | V: Rechnerarchitektur                   | <input type="checkbox" checked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
 | Di  | 17.10.23 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
 | Di  | 17.10.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
 | Mi  | 18.10.23 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
