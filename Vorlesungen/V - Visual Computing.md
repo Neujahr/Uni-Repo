@@ -24,11 +24,11 @@
 
 Modellierung des Bildinhaltes
 - 3D Geometrien
-- Lichtquellen
-- Virtuelle Kamera inkl. viewpoint fuer Perspektive
+- Lichtqüllen
+- Virtülle Kamera inkl. viewpoint für Perspektive
 - Sichtbarer Bereich viewing frustum
 - Position der Bildebene viewplane
-Ziel: Pixel der Viewplane anhand der aufgenommen Szene einfaerben
+Ziel: Pixel der Viewplane anhand der aufgenommen Szene einfärben
 
 Die Formed der Objekte in der Szene werden durch 3D Dreiecksgitte gebildet
 Dreiecksgitter -> gerenderter Darstelung 2 Möglichkeiten:
@@ -38,13 +38,13 @@ Dreiecksgitter -> gerenderter Darstelung 2 Möglichkeiten:
 ### Rastergrafik
 
 1. Eckpunkte des Dreiecks (vertices) auf Pixel der Bildebene (viewplane) abbilden
-2. Anhand der Pixel der Eckpunkte des Dreiecks (vertices) die restlichen Dreieckspixel in der Bildebene (viewplane) bestimmen und einfaerben
+2. Anhand der Pixel der Eckpunkte des Dreiecks (vertices) die restlichen Dreieckspixel in der Bildebene (viewplane) bestimmen und einfärben
 
 ![[Pasted image 20231026115137.png]]
 
 ### Raytracing
 
-Man versucht eine Szene zu rendern durch Sehstrahlen einer virtuellen Kamera. 
+Man versucht eine Szene zu rendern durch Sehstrahlen einer virtüllen Kamera. 
 
 ![[Pasted image 20231026115342.png]]
 
@@ -58,10 +58,24 @@ Mit Faltungsmatrizen <FONT COLOR="#ffa500"><b>kann man Bilder analysieren:</b></
 ![[Pasted image 20231026120742.png]]
 
 Mit einem Netzwerk aus Faltungsmatrizen (Convolutional Neural Networks) kann man komplexe objekte im Bild oder video erkennen
-Das funktioniert auch (teilweise) fuer 3D-Objekte.
-Durch die Faltungsschichten werden die Eingabebilder schrittweise in eine abstrakte Beschreibung ueberfuehrt. Aehnliche Bilder haben aehnliche Beschreibungen.
+Das funktioniert auch (teilweise) für 3D-Objekte.
+Durch die Faltungsschichten werden die Eingabebilder schrittweise in eine abstrakte Beschreibung überführt. Aehnliche Bilder haben ähnliche Beschreibungen.
 
 
 ## Graphische Objekte
 
-Erzeugung graphischer Objekte: Alle Objekte bestehen aus Punkten, die mit Kanten zu Drei
+Erzeugung graphischer Objekte: Alle Objekte bestehen aus Punkten, die mit Kanten zu Dreiecken gebildet werden. 
+
+**Kartesische Koordinatensysteme**: 
+![[Pasted image 20231026121706.png]]
+
+#### Primitive und Objekte
+OpenGL verbindet die Punkte zu bestimmten Primitiven (made up of one or more vertices)
+
+<FONT COLOR="#ffa500"><b>Wie kann man die Primitive im lokalen Koordinatensystem "manipulieren", um einen Pinguin zu konstruieren?</b></FONT>
+
+Mann kann sie:
+- verschieben (translieren)
+- drehen (rotieren)
+- vergrößern und verkleinern (skalieren)
+D

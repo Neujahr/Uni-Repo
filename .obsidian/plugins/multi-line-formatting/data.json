@@ -29,6 +29,16 @@
       "skipListItems": false,
       "skipBlockquotes": false,
       "formatWord": false
+    },
+    {
+      "id": "607347264",
+      "nickname": "",
+      "leftStyle": "<FONT COLOR=\"#ffa500\"><b>",
+      "rightStyle": "</b></FONT>",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
     }
   ]
 }

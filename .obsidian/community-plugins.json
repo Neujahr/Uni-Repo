@@ -8,5 +8,6 @@
   "table-checkboxes",
   "obsidian-excel-to-markdown-table",
   "make-md",
-  "multi-line-formatting"
+  "multi-line-formatting",
+  "obsidian-regex-replace"
 ]
