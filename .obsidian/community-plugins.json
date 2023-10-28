@@ -10,6 +10,6 @@
   "obsidian-pandoc",
   "check-please",
   "table-editor-obsidian",
-  "obsidian-regex-replace",
-  "obsidian-excel-to-markdown-table"
+  "obsidian-excel-to-markdown-table",
+  "obsidian-regex-replace"
 ]
