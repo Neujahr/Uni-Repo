@@ -6,5 +6,8 @@ tags:
 # Vorlesung 2
 
 ## Random Access Machine
-Für Algorithmen benutzt m
+→ Hypothetischer computer mit einer unbegrenzten Anzahl an addressierbaren Speicherstellen 
+
+#### Algorithmus → Methode um ein Problem zu lösen
+
  
