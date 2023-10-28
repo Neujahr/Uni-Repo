@@ -1,0 +1,44 @@
+{
+  "styleArray": [
+    {
+      "id": "multi-line-format-cyan-highlight",
+      "nickname": "Cyan Highlighter, even over multiple lines",
+      "leftStyle": "<span style=\"background-color:#00FEFE\">",
+      "rightStyle": "</span>",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    },
+    {
+      "id": "multi-line-format-bold",
+      "nickname": "Bold, even over multiple lines",
+      "leftStyle": "**",
+      "rightStyle": "**",
+      "skipHeadings": false,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    },
+    {
+      "id": "69853402",
+      "nickname": "Beispiele",
+      "leftStyle": "<FONT COLOR=\"#ffa500\"><b>",
+      "rightStyle": "</b></FONT>",
+      "skipHeadings": true,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    },
+    {
+      "id": "607347264",
+      "nickname": "Wichtig",
+      "leftStyle": "<FONT COLOR=\"#ff0000\">",
+      "rightStyle": "</FONT>",
+      "skipHeadings": true,
+      "skipListItems": false,
+      "skipBlockquotes": false,
+      "formatWord": false
+    }
+  ]
+}

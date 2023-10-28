@@ -8,12 +8,20 @@
     }
   ],
   "editor:toggle-checklist-status": [],
-  "obsidian-checklist-plugin:refresh-checklist-view": [
+  "multi-line-formatting:607347264": [
     {
       "modifiers": [
         "Ctrl"
       ],
-      "key": "R"
+      "key": "W"
+    }
+  ],
+  "multi-line-formatting:69853402": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "B"
     }
   ]
 }
