@@ -9,5 +9,6 @@
   "make-md",
   "multi-line-formatting",
   "obsidian-regex-replace",
-  "check-please"
+  "check-please",
+  "obsidian-smart-typography"
 ]
