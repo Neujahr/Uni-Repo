@@ -1,6 +1,6 @@
 {
-  "findText": " <input type=\"checkbox\" unchecked id=\"497021\">",
-  "replaceText": "- [  ]",
+  "findText": "- [  ]",
+  "replaceText": "- [ ]",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

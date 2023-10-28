@@ -6,8 +6,8 @@ cssclasses:
 
 | Tag | KW 42    | Termin                                  | V?                                            | B?                                            | W?                                            |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 16.10.23 | V: Rechnerarchitektur                   |- [  ] |- [  ] |- [  ] |
-| Di  | 17.10.23 | V: Objektorientierte Analyse und Design |- [  ] |- [  ] |- [  ] |
+| Mo  | 16.10.23 | V: Rechnerarchitektur                   |-[ ] |- [  ] |- [  ] |
+| Di  | 17.10.23 | V: Objektorientierte Analyse und Design |- [ ]{0} |- [  ] |- [  ] |
 | Di  | 17.10.23 | V: Programmieren 2                      |- [  ] |- [  ] |- [  ] |
 | Mi  | 18.10.23 | V: Betriebssysteme                      |- [  ] |- [  ] |- [  ] |
 | Mi  | 18.10.23 | V: Programmieren 2                      |- [  ] |- [  ] |- [  ] |
@@ -216,3 +216,4 @@ cssclasses:
 | Di  | 13.02.24 | ? V: Programmieren 2      |- [  ] |- [  ] |- [  ] |
 | Mi  | 14.02.24 | ? V: Programmieren 2      |- [  ] |- [  ] |- [  ] |
 | Mi  | 14.02.24 | LN: Französisch A1.2 (MP) |- [  ] |- [  ] |- [  ] |
+
