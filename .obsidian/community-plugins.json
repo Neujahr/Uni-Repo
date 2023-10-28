@@ -1,15 +1,13 @@
 [
   "obsidian-git",
+  "obsidian-style-settings",
   "obsidian-minimal-settings",
   "templater-obsidian",
   "obsidian-checklist-plugin",
   "multi-column-markdown",
-  "make-md",
-  "homepage",
-  "multi-line-formatting",
-  "check-please",
-  "table-editor-obsidian",
   "obsidian-excel-to-markdown-table",
+  "make-md",
+  "multi-line-formatting",
   "obsidian-regex-replace",
-  "obsidian-style-settings"
+  "check-please"
 ]
