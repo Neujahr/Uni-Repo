@@ -6,9 +6,9 @@ cssclasses:
 
 | Tag | KW 42    | Termin                                  | V?                                            | B?                                            | W?                                            |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 16.10.23 | V: Rechnerarchitektur                   |- [ ]{0}|- [ ]{1}|- [ ]{2}|
-| Di  | 17.10.23 | V: Objektorientierte Analyse und Design |- [ ]{3}|- [ ]{4}|- [ ]{5}|
-| Di  | 17.10.23 | V: Programmieren 2                      |- [ ]{6}|- [ ]{7}|- [ ]{8}|
+| Mo  | 16.10.23 | V: Rechnerarchitektur                   |- [x]{0}|- [ ]{1}|- [x]{2}|
+| Di  | 17.10.23 | V: Objektorientierte Analyse und Design |- [x]{3}|- [ ]{4}|- [x]{5}|
+| Di  | 17.10.23 | V: Programmieren 2                      |- [x]{6}|- [ ]{7}|- [x]{8}|
 | Mi  | 18.10.23 | V: Betriebssysteme                      |- [ ]{9}|- [ ]{10}|- [ ]{11}|
 | Mi  | 18.10.23 | V: Programmieren 2                      |- [ ]{12}|- [ ]{13}|- [ ]{14}|
 | Mi  | 18.10.23 | V: Visual Computing                     |- [ ]{15}|- [ ]{16}|- [ ]{17}|
@@ -27,8 +27,8 @@ cssclasses:
 | Mi  | 25.10.23 | V: Programmieren 2                      |- [ ]{45}|- [ ]{46}|- [ ]{47}|
 | Mi  | 25.10.23 | V: Französisch A1.2                     |- [ ]{48}|- [ ]{49}|- [ ]{50}|
 | Do  | 26.10.23 | VÜ: Algorithmen und Datenstrukturen     |- [ ]{51}|- [ ]{52}|- [ ]{53}|
-| Do  | 26.10.23 | V: Visual Computing                     |- [ ]{54}|- [ ]{55}|- [ ]{56}|
-| Fr  | 27.10.23 | P: Rechnerarchitektur #1                |- [ ]{57}|- [ ]{58}|- [ ]{59}|
+| Do  | 26.10.23 | V: Visual Computing                     |- [x]{54}|- [x]{55}|- [ ]{56}|
+| Fr  | 27.10.23 | P: Rechnerarchitektur #1                |- [x]{57}|- [x]{58}|- [x]{59}|
 
 
 | Tag | KW 44    | Termin                                  |                                               |                                               |                                               |
