@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-style-settings",
   "obsidian-minimal-settings",
   "templater-obsidian",
   "obsidian-checklist-plugin",
@@ -9,7 +8,8 @@
   "homepage",
   "multi-line-formatting",
   "obsidian-pandoc",
-  "obsidian-regex-replace",
   "check-please",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-regex-replace",
+  "obsidian-excel-to-markdown-table"
 ]
