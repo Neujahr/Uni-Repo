@@ -6,213 +6,213 @@ cssclasses:
 
 | Tag | KW 42    | Termin                                  | V?                                            | B?                                            | W?                                            |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 16.10.23 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 17.10.23 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 17.10.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 18.10.23 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 18.10.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 18.10.23 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 18.10.23 | Französisch A1.2                        | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 19.10.23 | VÜ: Algorithmen und Datenstrukturen     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 19.10.23 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 20.10.23 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mo  | 16.10.23 | V: Rechnerarchitektur                   |- [ ]{0}|- [ ]{1}|- [ ]{2}|
+| Di  | 17.10.23 | V: Objektorientierte Analyse und Design |- [ ]{3}|- [ ]{4}|- [ ]{5}|
+| Di  | 17.10.23 | V: Programmieren 2                      |- [ ]{6}|- [ ]{7}|- [ ]{8}|
+| Mi  | 18.10.23 | V: Betriebssysteme                      |- [ ]{9}|- [ ]{10}|- [ ]{11}|
+| Mi  | 18.10.23 | V: Programmieren 2                      |- [ ]{12}|- [ ]{13}|- [ ]{14}|
+| Mi  | 18.10.23 | V: Visual Computing                     |- [ ]{15}|- [ ]{16}|- [ ]{17}|
+| Mi  | 18.10.23 | Französisch A1.2                        |- [ ]{18}|- [ ]{19}|- [ ]{20}|
+| Do  | 19.10.23 | VÜ: Algorithmen und Datenstrukturen     |- [ ]{21}|- [ ]{22}|- [ ]{23}|
+| Do  | 19.10.23 | V: Visual Computing                     |- [ ]{24}|- [ ]{25}|- [ ]{26}|
+| Fr  | 20.10.23 | V: Rechnerarchitektur                   |- [ ]{27}|- [ ]{28}|- [ ]{29}|
 
 | Tag | KW 43    | Termin                                  |                                               |                                               |                                               |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 23.10.23 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 23.10.23 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 24.10.23 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 24.10.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 24.10.23 | VÜ: Algorithmen und Datenstrukturen     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 25.10.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 25.10.23 | V: Französisch A1.2                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 26.10.23 | VÜ: Algorithmen und Datenstrukturen     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 26.10.23 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 27.10.23 | P: Rechnerarchitektur #1                | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mo  | 23.10.23 | V: Betriebssysteme                      |- [ ]{30}|- [ ]{31}|- [ ]{32}|
+| Mo  | 23.10.23 | V: Rechnerarchitektur                   |- [ ]{33}|- [ ]{34}|- [ ]{35}|
+| Di  | 24.10.23 | V: Objektorientierte Analyse und Design |- [ ]{36}|- [ ]{37}|- [ ]{38}|
+| Di  | 24.10.23 | V: Programmieren 2                      |- [ ]{39}|- [ ]{40}|- [ ]{41}|
+| Di  | 24.10.23 | VÜ: Algorithmen und Datenstrukturen     |- [ ]{42}|- [ ]{43}|- [ ]{44}|
+| Mi  | 25.10.23 | V: Programmieren 2                      |- [ ]{45}|- [ ]{46}|- [ ]{47}|
+| Mi  | 25.10.23 | V: Französisch A1.2                     |- [ ]{48}|- [ ]{49}|- [ ]{50}|
+| Do  | 26.10.23 | VÜ: Algorithmen und Datenstrukturen     |- [ ]{51}|- [ ]{52}|- [ ]{53}|
+| Do  | 26.10.23 | V: Visual Computing                     |- [ ]{54}|- [ ]{55}|- [ ]{56}|
+| Fr  | 27.10.23 | P: Rechnerarchitektur #1                |- [ ]{57}|- [ ]{58}|- [ ]{59}|
 
 
 | Tag | KW 44    | Termin                                  |                                               |                                               |                                               |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 30.10.23 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 30.10.23 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 31.10.23 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 31.10.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 01.11.23 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 01.11.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 01.11.23 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 01.11.23 | V: Französisch A1.2                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 02.11.23 | VÜ: Algorithmen und Datenstrukturen     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 02.11.23 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 02.11.23 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 03.11.23 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 03.11.23 | P: Visual Computing #1                  | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mo  | 30.10.23 | V: Betriebssysteme                      |- [ ]{60}|- [ ]{61}|- [ ]{62}|
+| Mo  | 30.10.23 | V: Rechnerarchitektur                   |- [ ]{63}|- [ ]{64}|- [ ]{65}|
+| Di  | 31.10.23 | V: Objektorientierte Analyse und Design |- [ ]{66}|- [ ]{67}|- [ ]{68}|
+| Di  | 31.10.23 | V: Programmieren 2                      |- [ ]{69}|- [ ]{70}|- [ ]{71}|
+| Mi  | 01.11.23 | V: Betriebssysteme                      |- [ ]{72}|- [ ]{73}|- [ ]{74}|
+| Mi  | 01.11.23 | V: Programmieren 2                      |- [ ]{75}|- [ ]{76}|- [ ]{77}|
+| Mi  | 01.11.23 | V: Visual Computing                     |- [ ]{78}|- [ ]{79}|- [ ]{80}|
+| Mi  | 01.11.23 | V: Französisch A1.2                     |- [ ]{81}|- [ ]{82}|- [ ]{83}|
+| Do  | 02.11.23 | VÜ: Algorithmen und Datenstrukturen     |- [ ]{84}|- [ ]{85}|- [ ]{86}|
+| Do  | 02.11.23 | V: Objektorientierte Analyse und Design |- [ ]{87}|- [ ]{88}|- [ ]{89}|
+| Do  | 02.11.23 | V: Visual Computing                     |- [ ]{90}|- [ ]{91}|- [ ]{92}|
+| Fr  | 03.11.23 | V: Rechnerarchitektur                   |- [ ]{93}|- [ ]{94}|- [ ]{95}|
+| Fr  | 03.11.23 | P: Visual Computing #1                  |- [ ]{96}|- [ ]{97}|- [ ]{98}|
 
 | Tag | KW 45    | Termin                                  |                                               |                                               |                                               |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 06.11.23 | P: Betriebssysteme #1                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 06.11.23 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 06.11.23 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 07.11.23 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 07.11.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 08.11.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 08.11.23 | P: Programmieren 2 #1                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 08.11.23 | V: Französisch A1.2                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 09.11.23 | VÜ: Algorithmen und Datenstrukturen     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 09.11.23 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 10.11.23 | P: Rechnerarchitektur #2                | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mo  | 06.11.23 | P: Betriebssysteme #1                   |- [ ]{99}|- [ ]{100}|- [ ]{101}|
+| Mo  | 06.11.23 | V: Betriebssysteme                      |- [ ]{102}|- [ ]{103}|- [ ]{104}|
+| Mo  | 06.11.23 | V: Rechnerarchitektur                   |- [ ]{105}|- [ ]{106}|- [ ]{107}|
+| Di  | 07.11.23 | V: Objektorientierte Analyse und Design |- [ ]{108}|- [ ]{109}|- [ ]{110}|
+| Di  | 07.11.23 | V: Programmieren 2                      |- [ ]{111}|- [ ]{112}|- [ ]{113}|
+| Mi  | 08.11.23 | V: Programmieren 2                      |- [ ]{114}|- [ ]{115}|- [ ]{116}|
+| Mi  | 08.11.23 | P: Programmieren 2 #1                   |- [ ]{117}|- [ ]{118}|- [ ]{119}|
+| Mi  | 08.11.23 | V: Französisch A1.2                     |- [ ]{120}|- [ ]{121}|- [ ]{122}|
+| Do  | 09.11.23 | VÜ: Algorithmen und Datenstrukturen     |- [ ]{123}|- [ ]{124}|- [ ]{125}|
+| Do  | 09.11.23 | V: Visual Computing                     |- [ ]{126}|- [ ]{127}|- [ ]{128}|
+| Fr  | 10.11.23 | P: Rechnerarchitektur #2                |- [ ]{129}|- [ ]{130}|- [ ]{131}|
 
 | Tag | KW 46    | Termin                                  |                                               |                                               |                                               |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 13.11.23 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 13.11.23 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 14.11.23 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 14.11.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 15.11.23 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 15.11.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 15.11.23 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 15.11.23 | V: Französisch A1.2                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 16.11.23 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 16.11.23 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 17.11.23 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 17.11.23 | P: Visual Computing #2                  | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mo  | 13.11.23 | V: Betriebssysteme                      |- [ ]{132}|- [ ]{133}|- [ ]{134}|
+| Mo  | 13.11.23 | V: Rechnerarchitektur                   |- [ ]{135}|- [ ]{136}|- [ ]{137}|
+| Di  | 14.11.23 | V: Objektorientierte Analyse und Design |- [ ]{138}|- [ ]{139}|- [ ]{140}|
+| Di  | 14.11.23 | V: Programmieren 2                      |- [ ]{141}|- [ ]{142}|- [ ]{143}|
+| Mi  | 15.11.23 | V: Betriebssysteme                      |- [ ]{144}|- [ ]{145}|- [ ]{146}|
+| Mi  | 15.11.23 | V: Programmieren 2                      |- [ ]{147}|- [ ]{148}|- [ ]{149}|
+| Mi  | 15.11.23 | V: Visual Computing                     |- [ ]{150}|- [ ]{151}|- [ ]{152}|
+| Mi  | 15.11.23 | V: Französisch A1.2                     |- [ ]{153}|- [ ]{154}|- [ ]{155}|
+| Do  | 16.11.23 | V: Objektorientierte Analyse und Design |- [ ]{156}|- [ ]{157}|- [ ]{158}|
+| Do  | 16.11.23 | V: Visual Computing                     |- [ ]{159}|- [ ]{160}|- [ ]{161}|
+| Fr  | 17.11.23 | V: Rechnerarchitektur                   |- [ ]{162}|- [ ]{163}|- [ ]{164}|
+| Fr  | 17.11.23 | P: Visual Computing #2                  |- [ ]{165}|- [ ]{166}|- [ ]{167}|
 
 | Tag | KW 47    | Termin                                  |                                               |                                               |                                               |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 20.11.23 | P: Betriebssysteme #2                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 20.11.23 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 20.11.23 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 21.11.23 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 21.11.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 22.11.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 22.11.23 | P: Programmieren 2 #2                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 22.11.23 | V: Französisch A1.2                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 23.11.23 | VÜ: Algorithmen und Datenstrukturen     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 23.11.23 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 24.11.23 | P: Rechnerarchitektur #3                | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mo  | 20.11.23 | P: Betriebssysteme #2                   |- [ ]{168}|- [ ]{169}|- [ ]{170}|
+| Mo  | 20.11.23 | V: Betriebssysteme                      |- [ ]{171}|- [ ]{172}|- [ ]{173}|
+| Mo  | 20.11.23 | V: Rechnerarchitektur                   |- [ ]{174}|- [ ]{175}|- [ ]{176}|
+| Di  | 21.11.23 | V: Objektorientierte Analyse und Design |- [ ]{177}|- [ ]{178}|- [ ]{179}|
+| Di  | 21.11.23 | V: Programmieren 2                      |- [ ]{180}|- [ ]{181}|- [ ]{182}|
+| Mi  | 22.11.23 | V: Programmieren 2                      |- [ ]{183}|- [ ]{184}|- [ ]{185}|
+| Mi  | 22.11.23 | P: Programmieren 2 #2                   |- [ ]{186}|- [ ]{187}|- [ ]{188}|
+| Mi  | 22.11.23 | V: Französisch A1.2                     |- [ ]{189}|- [ ]{190}|- [ ]{191}|
+| Do  | 23.11.23 | VÜ: Algorithmen und Datenstrukturen     |- [ ]{192}|- [ ]{193}|- [ ]{194}|
+| Do  | 23.11.23 | V: Visual Computing                     |- [ ]{195}|- [ ]{196}|- [ ]{197}|
+| Fr  | 24.11.23 | P: Rechnerarchitektur #3                |- [ ]{198}|- [ ]{199}|- [ ]{200}|
 
 | Tag | KW 48    | Termin                                  |                                               |                                               |                                               |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 27.11.23 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 27.11.23 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 28.11.23 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 28.11.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 29.11.23 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 29.11.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 29.11.23 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 29.11.23 | V: Französisch A1.2                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 30.11.23 | VÜ: Algorithmen und Datenstrukturen     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 30.11.23 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 30.11.23 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 01.12.23 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 01.12.23 | P: Visual Computing #3                  | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mo  | 27.11.23 | V: Betriebssysteme                      |- [ ]{201}|- [ ]{202}|- [ ]{203}|
+| Mo  | 27.11.23 | V: Rechnerarchitektur                   |- [ ]{204}|- [ ]{205}|- [ ]{206}|
+| Di  | 28.11.23 | V: Objektorientierte Analyse und Design |- [ ]{207}|- [ ]{208}|- [ ]{209}|
+| Di  | 28.11.23 | V: Programmieren 2                      |- [ ]{210}|- [ ]{211}|- [ ]{212}|
+| Mi  | 29.11.23 | V: Betriebssysteme                      |- [ ]{213}|- [ ]{214}|- [ ]{215}|
+| Mi  | 29.11.23 | V: Programmieren 2                      |- [ ]{216}|- [ ]{217}|- [ ]{218}|
+| Mi  | 29.11.23 | V: Visual Computing                     |- [ ]{219}|- [ ]{220}|- [ ]{221}|
+| Mi  | 29.11.23 | V: Französisch A1.2                     |- [ ]{222}|- [ ]{223}|- [ ]{224}|
+| Do  | 30.11.23 | VÜ: Algorithmen und Datenstrukturen     |- [ ]{225}|- [ ]{226}|- [ ]{227}|
+| Do  | 30.11.23 | V: Objektorientierte Analyse und Design |- [ ]{228}|- [ ]{229}|- [ ]{230}|
+| Do  | 30.11.23 | V: Visual Computing                     |- [ ]{231}|- [ ]{232}|- [ ]{233}|
+| Fr  | 01.12.23 | V: Rechnerarchitektur                   |- [ ]{234}|- [ ]{235}|- [ ]{236}|
+| Fr  | 01.12.23 | P: Visual Computing #3                  |- [ ]{237}|- [ ]{238}|- [ ]{239}|
 
 | Tag | KW 49    | Termin                                  |                                               |                                               |                                               |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 04.12.23 | P: Betriebssysteme #3                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 04.12.23 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 04.12.23 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 05.12.23 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 05.12.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 06.12.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 06.12.23 | P: Programmieren 2 #3                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 06.12.23 | V: Französisch A1.2                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 07.12.23 | VÜ: Algorithmen und Datenstrukturen     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 07.12.23 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 08.12.23 | P: Rechnerarchitektur #4                | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mo  | 04.12.23 | P: Betriebssysteme #3                   |- [ ]{240}|- [ ]{241}|- [ ]{242}|
+| Mo  | 04.12.23 | V: Betriebssysteme                      |- [ ]{243}|- [ ]{244}|- [ ]{245}|
+| Mo  | 04.12.23 | V: Rechnerarchitektur                   |- [ ]{246}|- [ ]{247}|- [ ]{248}|
+| Di  | 05.12.23 | V: Objektorientierte Analyse und Design |- [ ]{249}|- [ ]{250}|- [ ]{251}|
+| Di  | 05.12.23 | V: Programmieren 2                      |- [ ]{252}|- [ ]{253}|- [ ]{254}|
+| Mi  | 06.12.23 | V: Programmieren 2                      |- [ ]{255}|- [ ]{256}|- [ ]{257}|
+| Mi  | 06.12.23 | P: Programmieren 2 #3                   |- [ ]{258}|- [ ]{259}|- [ ]{260}|
+| Mi  | 06.12.23 | V: Französisch A1.2                     |- [ ]{261}|- [ ]{262}|- [ ]{263}|
+| Do  | 07.12.23 | VÜ: Algorithmen und Datenstrukturen     |- [ ]{264}|- [ ]{265}|- [ ]{266}|
+| Do  | 07.12.23 | V: Visual Computing                     |- [ ]{267}|- [ ]{268}|- [ ]{269}|
+| Fr  | 08.12.23 | P: Rechnerarchitektur #4                |- [ ]{270}|- [ ]{271}|- [ ]{272}|
 
 | Tag | KW 50    | Termin                                  |                                               |                                               |                                               |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 11.12.23 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 11.12.23 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 12.12.23 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 12.12.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 13.12.23 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 13.12.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 13.12.23 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 13.12.23 | V: Französisch A1.2                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 14.12.23 | VÜ: Algorithmen und Datenstrukturen     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 14.12.23 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 14.12.23 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 15.12.23 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 15.12.23 | P: Visual Computing #4                  | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mo  | 11.12.23 | V: Betriebssysteme                      |- [ ]{273}|- [ ]{274}|- [ ]{275}|
+| Mo  | 11.12.23 | V: Rechnerarchitektur                   |- [ ]{276}|- [ ]{277}|- [ ]{278}|
+| Di  | 12.12.23 | V: Objektorientierte Analyse und Design |- [ ]{279}|- [ ]{280}|- [ ]{281}|
+| Di  | 12.12.23 | V: Programmieren 2                      |- [ ]{282}|- [ ]{283}|- [ ]{284}|
+| Mi  | 13.12.23 | V: Betriebssysteme                      |- [ ]{285}|- [ ]{286}|- [ ]{287}|
+| Mi  | 13.12.23 | V: Programmieren 2                      |- [ ]{288}|- [ ]{289}|- [ ]{290}|
+| Mi  | 13.12.23 | V: Visual Computing                     |- [ ]{291}|- [ ]{292}|- [ ]{293}|
+| Mi  | 13.12.23 | V: Französisch A1.2                     |- [ ]{294}|- [ ]{295}|- [ ]{296}|
+| Do  | 14.12.23 | VÜ: Algorithmen und Datenstrukturen     |- [ ]{297}|- [ ]{298}|- [ ]{299}|
+| Do  | 14.12.23 | V: Objektorientierte Analyse und Design |- [ ]{300}|- [ ]{301}|- [ ]{302}|
+| Do  | 14.12.23 | V: Visual Computing                     |- [ ]{303}|- [ ]{304}|- [ ]{305}|
+| Fr  | 15.12.23 | V: Rechnerarchitektur                   |- [ ]{306}|- [ ]{307}|- [ ]{308}|
+| Fr  | 15.12.23 | P: Visual Computing #4                  |- [ ]{309}|- [ ]{310}|- [ ]{311}|
 
 | Tag | KW 51    | Termin                                  |                                               |                                               |                                               |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 18.12.23 | P: Betriebssysteme #4                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 18.12.23 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 18.12.23 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 19.12.23 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 19.12.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 20.12.23 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 20.12.23 | P: Programmieren 2 #4                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 20.12.23 | V: Französisch A1.2                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 21.12.23 | VÜ: Algorithmen und Datenstrukturen     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 21.12.23 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 22.12.23 | P: Rechnerarchitektur #5                | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mo  | 18.12.23 | P: Betriebssysteme #4                   |- [ ]{312}|- [ ]{313}|- [ ]{314}|
+| Mo  | 18.12.23 | V: Betriebssysteme                      |- [ ]{315}|- [ ]{316}|- [ ]{317}|
+| Mo  | 18.12.23 | V: Rechnerarchitektur                   |- [ ]{318}|- [ ]{319}|- [ ]{320}|
+| Di  | 19.12.23 | V: Objektorientierte Analyse und Design |- [ ]{321}|- [ ]{322}|- [ ]{323}|
+| Di  | 19.12.23 | V: Programmieren 2                      |- [ ]{324}|- [ ]{325}|- [ ]{326}|
+| Mi  | 20.12.23 | V: Programmieren 2                      |- [ ]{327}|- [ ]{328}|- [ ]{329}|
+| Mi  | 20.12.23 | P: Programmieren 2 #4                   |- [ ]{330}|- [ ]{331}|- [ ]{332}|
+| Mi  | 20.12.23 | V: Französisch A1.2                     |- [ ]{333}|- [ ]{334}|- [ ]{335}|
+| Do  | 21.12.23 | VÜ: Algorithmen und Datenstrukturen     |- [ ]{336}|- [ ]{337}|- [ ]{338}|
+| Do  | 21.12.23 | V: Visual Computing                     |- [ ]{339}|- [ ]{340}|- [ ]{341}|
+| Fr  | 22.12.23 | P: Rechnerarchitektur #5                |- [ ]{342}|- [ ]{343}|- [ ]{344}|
 
 | Tag | KW 03    | Termin                                  |                                               |                                               |                                               |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 15.01.24 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 15.01.24 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 16.01.24 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 16.01.24 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 17.01.24 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 17.01.24 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 17.01.24 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 17.01.24 | V: Französisch A1.2                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 18.01.24 | VÜ: Algorithmen und Datenstrukturen     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 18.01.24 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 18.01.24 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 19.01.24 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 19.01.24 | P: Visual Computing #5                  | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mo  | 15.01.24 | V: Betriebssysteme                      |- [ ]{345}|- [ ]{346}|- [ ]{347}|
+| Mo  | 15.01.24 | V: Rechnerarchitektur                   |- [ ]{348}|- [ ]{349}|- [ ]{350}|
+| Di  | 16.01.24 | V: Objektorientierte Analyse und Design |- [ ]{351}|- [ ]{352}|- [ ]{353}|
+| Di  | 16.01.24 | V: Programmieren 2                      |- [ ]{354}|- [ ]{355}|- [ ]{356}|
+| Mi  | 17.01.24 | V: Betriebssysteme                      |- [ ]{357}|- [ ]{358}|- [ ]{359}|
+| Mi  | 17.01.24 | V: Programmieren 2                      |- [ ]{360}|- [ ]{361}|- [ ]{362}|
+| Mi  | 17.01.24 | V: Visual Computing                     |- [ ]{363}|- [ ]{364}|- [ ]{365}|
+| Mi  | 17.01.24 | V: Französisch A1.2                     |- [ ]{366}|- [ ]{367}|- [ ]{368}|
+| Do  | 18.01.24 | VÜ: Algorithmen und Datenstrukturen     |- [ ]{369}|- [ ]{370}|- [ ]{371}|
+| Do  | 18.01.24 | V: Objektorientierte Analyse und Design |- [ ]{372}|- [ ]{373}|- [ ]{374}|
+| Do  | 18.01.24 | V: Visual Computing                     |- [ ]{375}|- [ ]{376}|- [ ]{377}|
+| Fr  | 19.01.24 | V: Rechnerarchitektur                   |- [ ]{378}|- [ ]{379}|- [ ]{380}|
+| Fr  | 19.01.24 | P: Visual Computing #5                  |- [ ]{381}|- [ ]{382}|- [ ]{383}|
 
 | Tag | KW 04    | Termin                                  |                                               |                                               |                                               |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 22.01.24 | P: Betriebssysteme #5                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 22.01.24 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 22.01.24 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 23.01.24 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 23.01.24 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 24.01.24 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 24.01.24 | P: Programmieren 2 #5                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 24.01.24 | V: Französisch A1.2                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 25.01.24 | VÜ: Algorithmen und Datenstrukturen     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 25.01.24 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 26.01.24 | P: Rechnerarchitektur #6                | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mo  | 22.01.24 | P: Betriebssysteme #5                   |- [ ]{384}|- [ ]{385}|- [ ]{386}|
+| Mo  | 22.01.24 | V: Betriebssysteme                      |- [ ]{387}|- [ ]{388}|- [ ]{389}|
+| Mo  | 22.01.24 | V: Rechnerarchitektur                   |- [ ]{390}|- [ ]{391}|- [ ]{392}|
+| Di  | 23.01.24 | V: Objektorientierte Analyse und Design |- [ ]{393}|- [ ]{394}|- [ ]{395}|
+| Di  | 23.01.24 | V: Programmieren 2                      |- [ ]{396}|- [ ]{397}|- [ ]{398}|
+| Mi  | 24.01.24 | V: Programmieren 2                      |- [ ]{399}|- [ ]{400}|- [ ]{401}|
+| Mi  | 24.01.24 | P: Programmieren 2 #5                   |- [ ]{402}|- [ ]{403}|- [ ]{404}|
+| Mi  | 24.01.24 | V: Französisch A1.2                     |- [ ]{405}|- [ ]{406}|- [ ]{407}|
+| Do  | 25.01.24 | VÜ: Algorithmen und Datenstrukturen     |- [ ]{408}|- [ ]{409}|- [ ]{410}|
+| Do  | 25.01.24 | V: Visual Computing                     |- [ ]{411}|- [ ]{412}|- [ ]{413}|
+| Fr  | 26.01.24 | P: Rechnerarchitektur #6                |- [ ]{414}|- [ ]{415}|- [ ]{416}|
 
 | Tag | KW 05    | Termin                                  |                                               |                                               |                                               |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 29.01.24 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 29.01.24 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 30.01.24 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 30.01.24 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 31.01.24 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 31.01.24 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 31.01.24 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 31.01.24 | V: Französisch A1.2                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 01.02.24 | VÜ: Algorithmen und Datenstrukturen     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 01.02.24 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 01.02.24 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 02.02.24 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 02.02.24 | P: Visual Computing #6                  | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mo  | 29.01.24 | V: Betriebssysteme                      |- [ ]{417}|- [ ]{418}|- [ ]{419}|
+| Mo  | 29.01.24 | V: Rechnerarchitektur                   |- [ ]{420}|- [ ]{421}|- [ ]{422}|
+| Di  | 30.01.24 | V: Objektorientierte Analyse und Design |- [ ]{423}|- [ ]{424}|- [ ]{425}|
+| Di  | 30.01.24 | V: Programmieren 2                      |- [ ]{426}|- [ ]{427}|- [ ]{428}|
+| Mi  | 31.01.24 | V: Betriebssysteme                      |- [ ]{429}|- [ ]{430}|- [ ]{431}|
+| Mi  | 31.01.24 | V: Programmieren 2                      |- [ ]|- [ ]|- [ ]|
+| Mi  | 31.01.24 | V: Visual Computing                     |- [ ]|- [ ]|- [ ]|
+| Mi  | 31.01.24 | V: Französisch A1.2                     |- [ ]|- [ ]|- [ ]|
+| Do  | 01.02.24 | VÜ: Algorithmen und Datenstrukturen     |- [ ]|- [ ]|- [ ]|
+| Do  | 01.02.24 | V: Objektorientierte Analyse und Design |- [ ]|- [ ]|- [ ]|
+| Do  | 01.02.24 | V: Visual Computing                     |- [ ]|- [ ]|- [ ]|
+| Fr  | 02.02.24 | V: Rechnerarchitektur                   |- [ ]|- [ ]|- [ ]|
+| Fr  | 02.02.24 | P: Visual Computing #6                  |- [ ]|- [ ]|- [ ]|
 
 | Tag | KW 06    | Termin                                  |                                               |                                               |                                               |
 |-----|----------|-----------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 05.02.24 | P: Betriebssysteme #6                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 05.02.24 | V: Betriebssysteme                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mo  | 05.02.24 | V: Rechnerarchitektur                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 06.02.24 | V: Objektorientierte Analyse und Design | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 06.02.24 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 07.02.24 | V: Programmieren 2                      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 07.02.24 | P: Programmieren 2 #6                   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 07.02.24 | LN: Französisch A1.2 (SP)               | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 08.02.24 | VÜ: Algorithmen und Datenstrukturen     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Do  | 08.02.24 | V: Visual Computing                     | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Fr  | 09.02.24 | P: Rechnerarchitektur #7                | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mo  | 05.02.24 | P: Betriebssysteme #6                   |- [ ]|- [ ]|- [ ]|
+| Mo  | 05.02.24 | V: Betriebssysteme                      |- [ ]|- [ ]|- [ ]|
+| Mo  | 05.02.24 | V: Rechnerarchitektur                   |- [ ]|- [ ]|- [ ]|
+| Di  | 06.02.24 | V: Objektorientierte Analyse und Design |- [ ]|- [ ]|- [ ]|
+| Di  | 06.02.24 | V: Programmieren 2                      |- [ ]|- [ ]|- [ ]|
+| Mi  | 07.02.24 | V: Programmieren 2                      |- [ ]|- [ ]|- [ ]|
+| Mi  | 07.02.24 | P: Programmieren 2 #6                   |- [ ]|- [ ]|- [ ]|
+| Mi  | 07.02.24 | LN: Französisch A1.2 (SP)               |- [ ]|- [ ]|- [ ]|
+| Do  | 08.02.24 | VÜ: Algorithmen und Datenstrukturen     |- [ ]|- [ ]|- [ ]|
+| Do  | 08.02.24 | V: Visual Computing                     |- [ ]|- [ ]|- [ ]|
+| Fr  | 09.02.24 | P: Rechnerarchitektur #7                |- [ ]|- [ ]|- [ ]|
 
 | Tag | KW 07    | Termin                    |                                               |                                               |                                               |
 |-----|----------|---------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Mo  | 12.02.24 | ? V: Rechnerarchitektur   | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Di  | 13.02.24 | ? V: Programmieren 2      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 14.02.24 | ? V: Programmieren 2      | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
-| Mi  | 14.02.24 | LN: Französisch A1.2 (MP) | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> | <input type="checkbox" unchecked id="497021"> |
+| Mo  | 12.02.24 | ? V: Rechnerarchitektur   |- [ ]|- [ ]|- [ ]|
+| Di  | 13.02.24 | ? V: Programmieren 2      |- [ ]|- [ ]|- [ ]|
+| Mi  | 14.02.24 | ? V: Programmieren 2      |- [ ]|- [ ]|- [ ]|
+| Mi  | 14.02.24 | LN: Französisch A1.2 (MP) |- [ ]|- [ ]|- [ ]|

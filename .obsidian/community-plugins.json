@@ -7,9 +7,9 @@
   "make-md",
   "homepage",
   "multi-line-formatting",
-  "obsidian-pandoc",
   "check-please",
   "table-editor-obsidian",
   "obsidian-excel-to-markdown-table",
-  "obsidian-regex-replace"
+  "obsidian-regex-replace",
+  "obsidian-style-settings"
 ]
