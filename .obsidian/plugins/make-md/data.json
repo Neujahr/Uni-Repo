@@ -56,13 +56,7 @@
       "Vorlesungen"
     ],
     "Vorlesungen": [],
-    "Courses": [
-      "Vorlesungen",
-      "Vorlesungen",
-      "Vorlesungen",
-      "Vorlesungen",
-      "Vorlesungen"
-    ]
+    "Courses": []
   },
   "expandedSpaces": [
     "/",
@@ -70,14 +64,15 @@
     "Courses WS2324",
     "Assignments",
     "Praktika",
-    "Courses",
-    "Uni-Repo",
-    null
+    null,
+    "Life",
+    "Uni-Repo"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
+    "Life",
     "Courses",
     "Uni-Repo"
   ],
@@ -104,7 +99,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1698165075016,
+  "spacesAutoBackupLast": 1698999742589,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
