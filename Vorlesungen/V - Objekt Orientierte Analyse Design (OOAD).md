@@ -150,4 +150,24 @@ Waterfall Model
 	Changes only possible between two adjacent phases
 <FONT COLOR="#ff0000">Communication primarily through docs → significant overhead</FONT>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Putzdienste
+- Abschlag Kueche 450 Euro
+- 1,5 Monate im Jahr weg
+- Einzug 01.01
+
+
  
