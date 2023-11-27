@@ -64,9 +64,8 @@
     "Courses WS2324",
     "Assignments",
     "Praktika",
-    null,
     "Life",
-    "Uni-Repo"
+    null
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
