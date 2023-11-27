@@ -56,7 +56,9 @@
       "Vorlesungen"
     ],
     "Vorlesungen": [],
-    "Courses": []
+    "Courses": [
+      "Vorlesungen"
+    ]
   },
   "expandedSpaces": [
     "/",
@@ -65,7 +67,8 @@
     "Assignments",
     "Praktika",
     "Life",
-    null
+    null,
+    "Courses"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],

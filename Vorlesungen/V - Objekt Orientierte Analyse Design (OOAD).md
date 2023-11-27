@@ -84,7 +84,11 @@ This lecture will focus primarily on the phases requirement analysis, design and
 
 
 
-
+ - Success measured by <FONT COLOR="#ff0000">Client Satisfaction</FONT>, connected to Requirements Fulfillment. There are two types of requirements:
+### Functional Requirements (FR)
+- Describe system’s 
+### Non-Functional Requirements (NFR)
+- 
 
 
 
