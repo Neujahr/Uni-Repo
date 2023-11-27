@@ -114,7 +114,7 @@ This lecture will focus primarily on the phases requirement analysis, design and
 
 #### ISO 25010 - Software Product Quality
 -  Functional Stability
--  Perfomrance Efficiency
+-  Performance Efficiency
 - Compatibility
 - Usability
 - Reliability
@@ -125,3 +125,29 @@ This lecture will focus primarily on the phases requirement analysis, design and
 > [!NOTE]
 >  Maintainability comprised by 5 aspects: Modularity, Reusability, Analysability, Modifiability, Testability
 
+* Modularity: Degree to which a system or computer program is composed of discrete
+components such that a change to one component has minimal impact on other
+components
+- Reusability: Degree to which an asset can be used in more than one system or in building
+other assets
+- Analysability: Degree of effectiveness and efficiency with which it is possible to assess the
+impact on a product or system of an intended change to one or more of its parts or to
+diagnose a product for deficiencies or causes of failures or to identify parts to be modified
+- Modifiability: Degree to which a product or system can be effectively and efficiently
+modified without introducing defects or degrading existing product quality
+- Testability: Degree of effectiveness and efficiency with which test criteria can be
+established for a system, product or component and tests can be performed to determine
+whether those criteria have been met
+
+## Software Processes - Traditional
+
+1950s → SW developed alongside HW
+Goal: Create whole product in one single project
+Waterfall Model
+	Sequential execution of phases of SDLC
+	Each phase fully executed in the right order
+	each phase concluded with documentation specifying results
+	Changes only possible between two adjacent phases
+<FONT COLOR="#ff0000">Communication primarily through docs → significant overhead</FONT>
+
+ 
