@@ -80,15 +80,24 @@ The software development lifecycle (SDLC) defines phases that all software or in
 
 This lecture will focus primarily on the phases requirement analysis, design and implementation. Other phases of the SDLC will be addressed in the lecture Software Engineering
 
-## Quality and Requirements in Software Engineering
-
-
+### Quality and Requirements in Software Engineering
 
  - Success measured by <FONT COLOR="#ff0000">Client Satisfaction</FONT>, connected to Requirements Fulfillment. There are two types of requirements:
-### Functional Requirements (FR)
-- Describe system’s 
-### Non-Functional Requirements (NFR)
+ -  Distinction between FR and NFR not always clear, eg. NRF for security may cause FR for user authentication/authorization. 
+#### Functional Requirements (FR)
+- Describe system’s features/use cases e.g smartphone needs to be able to place calls, staff membrs should be uniquely identified
+- Different levels of detail depending on project’s necessity
+- Ambiguity specification = clash between SEs and Client
+- Often are what the <FONT COLOR="#ff0000">client is most interested in</FONT>, easiest to change
 - 
+#### Non-Functional Requirements (NFR)
+- Often more critical than FRs, harder to change later
+- Characteristics of system as a whole, not related to functionality e.g security, performance, maintainability
+- Afftect overall architecture
+	-  High Availability = more complex distributed systems arch
+	- Real-time reqs = minimize communication between components
+- <FONT COLOR="#ff0000">Not meeting NFR could make the whole system unusable/unfit</FONT>
+- Most clients understand importance of NFR
 
 
 
@@ -99,3 +108,8 @@ This lecture will focus primarily on the phases requirement analysis, design and
 
 
 
+
+
+
+
+#### ISO 25010 - Software Product Quality
