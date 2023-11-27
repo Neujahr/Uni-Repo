@@ -113,3 +113,15 @@ This lecture will focus primarily on the phases requirement analysis, design and
 
 
 #### ISO 25010 - Software Product Quality
+-  Functional Stability
+-  Perfomrance Efficiency
+- Compatibility
+- Usability
+- Reliability
+- Security
+- <FONT COLOR="#ff0000">Maintainability</FONT> → Most important quality characteristic for OOAD
+- Portability
+
+> [!NOTE]
+>  Maintainability comprised by 5 aspects: Modularity, Reusability, Analysability, Modifiability, Testability
+
