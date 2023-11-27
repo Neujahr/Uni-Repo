@@ -165,8 +165,10 @@ Waterfall Model
 
 
 - Putzdienste
-- Abschlag Kueche 450 Euro
-- 1,5 Monate im Jahr weg
+- Abschlag Kche 450 Euro
+
+
+- 1,5 Monate im Jahr in Heimat
 - Einzug 01.01
 
 
