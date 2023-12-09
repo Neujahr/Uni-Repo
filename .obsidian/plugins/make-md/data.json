@@ -67,8 +67,8 @@
     "Assignments",
     "Praktika",
     "Life",
-    null,
-    "Courses"
+    "Courses",
+    null
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
