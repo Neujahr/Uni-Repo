@@ -154,5 +154,27 @@ Waterfall Model
 <FONT COLOR="#ffa500"><b>Initial project is completed - Customer is not happy</b></FONT> 
 The product does not fit the needs of the client → Can we fix that?
 		A whole new project starts with requirements analysis, vulnerable to the same problems as the last. 
-		4 months have passed, requirements ahve hange dagain. 
-		
+		4 months have passed, requirements have changed again. 
+
+Problem: Waterfall model proves insufficient. New models arise to address that
+V - Model and Spiral model (still focused on the creation of documents between teams)
+
+<FONT COLOR="#ff0000">Late 1990 - early 2000 </FONT> → Rise of Agile Software Development
+- Focused on iterations and adaptations to change requirements
+
+
+## Software Processes - Agile
+### Agile Manifesto 
+
+<FONT COLOR="#ff0000">Individuals and interactions</FONT> over processes and tools
+<FONT COLOR="#ff0000">Working software</FONT> over comprehensive documentation
+<FONT COLOR="#ff0000">Customer collaboration</FONT> over contract negotiation
+<FONT COLOR="#ff0000">Responding to change</FONT> over following a plan
+
+The manifesto states 12 principles. The most relevant are:
+1. Working Software → Primary measure of progress
+2. Highest Priority → Satisfy customer early and continuously with valuable software
+3. Welcome changing requirements → Change becomes a competitive advantage
+4. Deliver working software frequently → Preference shorter time frames. 
+5. Continuous attention to technical excellence and good design enhances agility
+
