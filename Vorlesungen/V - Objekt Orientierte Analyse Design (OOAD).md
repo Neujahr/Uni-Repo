@@ -150,26 +150,9 @@ Waterfall Model
 	Changes only possible between two adjacent phases
 <FONT COLOR="#ff0000">Communication primarily through docs → significant overhead</FONT>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- Putzdienste
-- Abschlag Kche 450 Euro
-
-
-- 1,5 Monate im Jahr in Heimat
-- Einzug 01.01
-
-
- 
+### Handling of change: implications
+<FONT COLOR="#ffa500"><b>Initial project is completed - Customer is not happy</b></FONT> 
+The product does not fit the needs of the client → Can we fix that?
+		A whole new project starts with requirements analysis, vulnerable to the same problems as the last. 
+		4 months have passed, requirements ahve hange dagain. 
+		
