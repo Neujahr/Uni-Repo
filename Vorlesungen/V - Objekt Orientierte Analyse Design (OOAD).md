@@ -101,17 +101,6 @@ This lecture will focus primarily on the phases requirement analysis, design and
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 #### ISO 25010 - Software Product Quality
 -  Functional Stability
 -  Performance Efficiency
